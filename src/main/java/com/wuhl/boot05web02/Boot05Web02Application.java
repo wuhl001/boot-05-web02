@@ -14,6 +14,8 @@ public class Boot05Web02Application {
         System.out.println("测试成功！！！");
         System.out.println("Hello git!!!");
         System.out.println("master也被修改了");
+        System.out.println("Hot-fix又被修改了");
+
     }
 
 
