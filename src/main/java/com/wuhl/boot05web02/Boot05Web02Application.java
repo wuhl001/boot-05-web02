@@ -11,7 +11,7 @@ public class Boot05Web02Application {
     public static void main(String[] args) {
         SpringApplication.run(Boot05Web02Application.class, args);
 
-//        System.out.println("测试成功！！！");
+        System.out.println("测试成功！！！");
     }
 
 
